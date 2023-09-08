@@ -1,0 +1,6 @@
+name "reverse_strings"
+description "A minimal D application."
+authors "Damian Ziemba"
+copyright "Copyright © 2023, Damian Ziemba"
+license "proprietary"
+dependency "fluent-asserts" version="~>1.0.0"

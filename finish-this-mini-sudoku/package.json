@@ -1,0 +1,16 @@
+{
+  "name": "finish-this-mini-sudoku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.js"
+  },
+  "keywords": [],
+  "author": "Damian Ziemba <d.ziemba@marketlab.pl> (https://marketlab.pl/)",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
