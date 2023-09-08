@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/counting_duplicates
+counting_duplicates.so
+counting_duplicates.dylib
+counting_duplicates.dll
+counting_duplicates.a
+counting_duplicates.lib
+counting_duplicates-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

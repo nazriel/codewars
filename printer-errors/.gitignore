@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/printer-errors
+printer-errors.so
+printer-errors.dylib
+printer-errors.dll
+printer-errors.a
+printer-errors.lib
+printer-errors-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/ordered_count_of_characters
+ordered_count_of_characters.so
+ordered_count_of_characters.dylib
+ordered_count_of_characters.dll
+ordered_count_of_characters.a
+ordered_count_of_characters.lib
+ordered_count_of_characters-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

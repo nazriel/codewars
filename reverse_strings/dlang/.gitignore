@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/reverse_strings
+reverse_strings.so
+reverse_strings.dylib
+reverse_strings.dll
+reverse_strings.a
+reverse_strings.lib
+reverse_strings-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

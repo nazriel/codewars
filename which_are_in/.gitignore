@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/which_are_in
+which_are_in.so
+which_are_in.dylib
+which_are_in.dll
+which_are_in.a
+which_are_in.lib
+which_are_in-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

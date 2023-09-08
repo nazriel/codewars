@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Damian Ziemba"
+	],
+	"copyright": "Copyright © 2023, Damian Ziemba",
+	"dependencies": {
+		"fluent-asserts": "~>1.0.0"
+	},
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "which_are_in"
+}

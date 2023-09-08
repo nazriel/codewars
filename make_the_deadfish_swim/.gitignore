@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/make_the_deadfish_swim
+make_the_deadfish_swim.so
+make_the_deadfish_swim.dylib
+make_the_deadfish_swim.dll
+make_the_deadfish_swim.a
+make_the_deadfish_swim.lib
+make_the_deadfish_swim-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
