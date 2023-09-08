@@ -22,6 +22,12 @@ js)
 go)
 	go mod init "codewars.dzfl.pl/$TITLE_ESCAPED"
 	;;
+python)
+	true
+	;;
+nasm)
+	true
+	;;
 *)
 	echo "Unknown language: $LANGUAGE"
 	exit 1
